@@ -1,6 +1,6 @@
 name: video_meta_info
 description: A flutter plugin can retrieve the meta info of the selected video file.
-version: 1.0.0
+version: 1.0.1
 homepage: https://dstk.online
 repository: https://github.com/DSTKCA/video_meta_info
 
